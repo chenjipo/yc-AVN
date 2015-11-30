@@ -1,0 +1,3 @@
+cp arch/arm/boot/zImage  /home/etrans/share/111/
+sync
+
